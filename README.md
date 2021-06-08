@@ -2,7 +2,7 @@
 ## Проект выполнил: Руцкий Александр
 
 В проекте используются:
--HTML
--CSS
--JS
--Normilize
+- HTML
+- CSS
+- JS
+- Normilize
